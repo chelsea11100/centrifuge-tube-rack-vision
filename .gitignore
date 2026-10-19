@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 本地配置与运行产物
+camera.env
+results/
+capture_latest.jpg
+图片/
+
+# 根目录临时大图（保留 samples/）
+/_cgi-bin_*
+/plate_phone.jpeg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 系统
+.DS_Store
+Thumbs.db
