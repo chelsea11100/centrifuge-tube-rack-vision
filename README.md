@@ -205,6 +205,17 @@ cp camera.env.example camera.env   # 按需改 GIGE_IF、GIGE_HOST_IP、EXPOSURE
 
 ---
 
+## Author / 作者
+
+- **GitHub**：[@chelsea11100](https://github.com/chelsea11100)
+- **Repository**：https://github.com/chelsea11100/centrifuge-tube-rack-vision
+
+**CV 引用示例**
+
+> *Centrifuge Tube Rack Vision* — classical CV pipeline for reflective 6×4 tube plates with Hikrobot industrial cameras, slot occupancy and cap orientation export.  
+> GitHub: https://github.com/chelsea11100/centrifuge-tube-rack-vision
+
+---
 
 ## License
 
